@@ -1,6 +1,6 @@
 ### Hi there, I'm Swambhu Mullick - aka Swambhu2080 👋
 
-###I am currently in 3rd year pursuing my bachelors degree in computer science and engineering from Institute of Engineering and Management, Kolkata. Trying out new things to learn more everyday.
+I am currently in 3rd year pursuing my bachelors degree in computer science and engineering from Institute of Engineering and Management, Kolkata.
 
 ### Languages and Tools:
 
