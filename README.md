@@ -20,6 +20,6 @@ I am currently in 3rd year pursuing my bachelors degree in computer science and 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swambhu2080&layout=compact)](https://github.com/Swambhu2080/github-readme-stats)
 
 
-![Swambhu Mullick's Github Stats](https://github-readme-stats.vercel.app/api?username=Swambhu2080&show_icons=true&hide-border=true&theme=synthwave)
+![Swambhu Mullick's Github Stats](https://github-readme-stats.vercel.app/api?username=Swambhu2080&show_icons=true&hide-border=true&theme=onedark)
 
 
