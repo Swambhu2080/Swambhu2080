@@ -1,6 +1,10 @@
-### Hi there, I'm Swambhu Mullick - aka Swambhu2080 👋 [PotfolioWebsite]
+### Hi there, I'm Swambhu Mullick - aka [Swambhu2080][Website] 👋
 
 I am currently in 3rd year pursuing my bachelors degree in computer science and engineering from Institute of Engineering and Management, Kolkata.
+
+<br />
+
+---
 
 ### Languages and Tools:
 
@@ -17,10 +21,12 @@ I am currently in 3rd year pursuing my bachelors degree in computer science and 
 <br />
 <br />
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swambhu2080&layout=compact)](https://github.com/Swambhu2080/github-readme-stats)
 
 
 ![Swambhu Mullick's Github Stats](https://github-readme-stats.vercel.app/api?username=Swambhu2080&show_icons=true&hide-border=true&theme=onedark)
 
-[PotfolioWebsite](https://swambhu2080.github.io/Portfolio/)
+[oWebsite]: https://swambhu2080.github.io/Portfolio/
 
