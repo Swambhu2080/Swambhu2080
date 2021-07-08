@@ -2,9 +2,6 @@
 
 I am currently in 3rd year pursuing my bachelors degree in computer science and engineering from Institute of Engineering and Management, Kolkata.
 
-<br />
-
----
 
 ### Languages and Tools:
 
